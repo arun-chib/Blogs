@@ -71,7 +71,7 @@ If you are using VBox, then check this box:
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671210823681/6bwCTlYME.png align="center")
         
-    *   Set Desired Disk Size.
+    *   Set Desired Disk Size. 
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671210839940/jY-aC5wrm.png align="center")
         
